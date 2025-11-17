@@ -26,11 +26,11 @@ author:
   avatar           : "photo.png"
   name             : "CHEN, MINHAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Shenzhen, Guangdong"
   employer         : "Shenzhen University"
   uri              : # URL
-  email            : "chenmh[!at!]szu.edu.cn" 
+  email            : "chenmh/at/szu.edu.cn" 
 
   # Academic websites
   academia         : # URL
