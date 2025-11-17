@@ -12,9 +12,8 @@ This is Minhao Chen, and I am currently an Assistant Professor at [SAFTI, Shenzh
 
 What's new
 ======
-New working paper uploaded: [Nature Transition Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5750282)
-
-Working paper revised: [Pricing the Priceless: The Financing Cost of Biodiversity Conservation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656780)
+1. New working paper uploaded: [Nature Transition Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5750282)
+1. Working paper revised: [Pricing the Priceless: The Financing Cost of Biodiversity Conservation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656780)
 
 
 Getting started
