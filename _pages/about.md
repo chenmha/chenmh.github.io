@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Chen Minhao, and I am currently an Assistant Professor at [SAFTI, Shenzhen University](https://safti.szu.edu.cn/info/1045/2643.htm). My research interests focus on sustainability, financial risk, and environmental economics, with a particular emphasis on leveraging AI methodologies to address complex challenges in these fields.
+This is Minhao Chen, and I am currently an Assistant Professor at [SAFTI, Shenzhen University](https://safti.szu.edu.cn/info/1045/2643.htm). My research interests focus on sustainability, financial risk, and environmental economics, with a particular emphasis on leveraging AI methodologies to address complex challenges in these fields.
 
 
 A data-driven personal website
