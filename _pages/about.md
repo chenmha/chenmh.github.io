@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "I am now a assistant professor in SAFTI, Shenzhen University."
+title: "CHEN, MINHAO"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This is Chen Minhao, and I am currently an Assistant Professor at [SAFTI, Shenzhen University](https://safti.szu.edu.cn/info/1045/2643.htm). My research interests focus on sustainability, financial risk, and environmental economics, with a particular emphasis on leveraging AI methodologies to address complex challenges in these fields.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
