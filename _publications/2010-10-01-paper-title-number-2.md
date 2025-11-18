@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "东道国恐怖活动、中国对外直接投资及其区位偏好转移"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: '本文研究了东道国恐怖活动对中国对外直接投资（OFDI）的影响，发现东道国恐怖活动对中国在该国的OFDI有“挤出效应”，但是对中国在该国周边国家的OFDI却有“挤入效应”。'
+date: 2023-03-01
+venue: '《经济学（季刊）》'
+slidesurl: ''
+paperurl: ''
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本文探究了东道国恐怖活动对中国OFDI的影响及其空间溢出效应。本文发现，第一，东道国恐怖活动对中国在该国的OFDI有“挤出效应”，但是对中国在该国周边国家的OFDI却有“挤入效应”。第二，恐怖活动仅能使低转移成本的OFDI发生区位偏好转移，并不会影响高转移成本的OFDI，即中国OFDI区位转移存在“选择偏好”。第三，大规模的严重恐怖活动使中国OFDI的区位偏好发生转移，但是小范围的恐怖活动则影响有限。第四，恐怖活动不仅使中国OFDI向地理距离较近的地区转移，也使其向制度距离较近的地区转移，即中国OFDI区位转移存在“流向偏好”。本文的研究发现为中国OFDI的战略布局提供了现实参考。
