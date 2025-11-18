@@ -8,7 +8,7 @@ excerpt: 'With Fukang Chen, Lin William Cong, Haoyu Gao, Jacopo Ponticelli'
 # date: 2023-12-01
 # venue: 'Working paper'
 # slidesurl: ''
-# paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=SHX-2ztJhdeDrNmr_LfdgQQyrN9GDrer3N0CLiAymk8-U1em8ZXPOstkpuWmtJFm9FVhpzgPLNcwfCKmV0SVKTddG3TfB7xzdn6sKwLwUGvJevdloVpRVGWh7twO9fSjxAsMa6v4iAOSqgQUr8SlLGnF4E_LRegBcsFK0Dfa9sWoaucMmyMBww==&uniplatform=NZKPT&language=CHS'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4656780'
 # citation: ''
 ---
 
