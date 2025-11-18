@@ -1,7 +1,6 @@
 ---
 title: "Pricing the priceless: the financing cost of biodiversity conservation"
 collection: working-paper
-author: "Your Name, Coauthor Name"  # 添加这一行
 # category: working-paper
 permalink: /working-paper/Pricing-the-priceless
 excerpt: 'With Fukang Chen, Lin William Cong, Haoyu Gao, Jacopo Ponticelli'
