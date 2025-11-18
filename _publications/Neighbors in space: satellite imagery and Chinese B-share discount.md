@@ -2,7 +2,7 @@
 title: "Neighbors in space: satellite imagery and Chinese B-share discount"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Neighbors in space: satellite imagery and Chinese B-share discount
 excerpt: "This study shows that satellite imagery enhances stock price efficiency in international markets by reducing information asymmetry, particularly mitigating China's B-share discount."
 date: 2023-12-01
 venue: "China Economic Review"
